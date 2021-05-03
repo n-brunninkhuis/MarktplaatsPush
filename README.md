@@ -1,5 +1,9 @@
 # MarktplaatsNotificaties
-Keeps an eye on one or more search queries and sends a notification when a new item is found.
+PHP script that keeps an eye on one or more search queries and sends a Pushover notification when a new item is found.
+
+<p align='center'>
+<img src='https://media.giphy.com/media/wBFVJylsveDVdGOOo2/giphy.gif'>
+</p>
 
 ## Requirements
 - PHP (tested on 7.3)
