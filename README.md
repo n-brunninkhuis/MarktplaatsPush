@@ -8,6 +8,7 @@ PHP script that keeps an eye on one or more search queries and sends a Pushover 
 ## Requirements
 - PHP (tested on 7.3)
 - Pushover (push notification service)
+- A server running a job scheduler (cron)
 
 ## Install
 ```
