@@ -1,4 +1,4 @@
-# MarktplaatsNotificaties
+# MarktplaatsPush
 PHP script that keeps an eye on one or more search queries and sends a Pushover notification when a new item is found.
 
 <p align='center'>
